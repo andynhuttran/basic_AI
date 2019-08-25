@@ -1,5 +1,5 @@
 # basic_AI
-This is lessons or example about Machine Learning, and Deep Learning.
+Lessons or examples about Machine Learning, and Deep Learning
 
 1. Load CSV file data, using numpy [here](https://github.com/colenhuttran/basic_AI/blob/master/load_data_by_numpy.ipynb)
 
