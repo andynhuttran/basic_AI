@@ -1,2 +1,2 @@
 # basic_AI
-This is lessons which i learn about Machine Learning, and Deep Learning.
+This is lessons or example about Machine Learning, and Deep Learning.
